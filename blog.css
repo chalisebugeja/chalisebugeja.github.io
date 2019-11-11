@@ -1,0 +1,23 @@
+.date {
+    text-transform: uppercase;
+    color: #3098dd;
+}
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    border: 25px;
+    border-style: solid;
+    border-color: #bdc7cf ;
+    width: 75%;
+    margin: auto;
+    padding: 20px;
+}
+
+.margin {
+    border-left: 5px solid #bdc7cf;
+    padding-left: 10px;
+}
+
+h1 {
+    color: #354b63;
+}
